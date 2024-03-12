@@ -3,7 +3,7 @@ import Navbar from './components/Navbar';
 import News from './components/News';
 
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
-
+//jhkfjkds
 export class App extends Component {
   render() {
 
